@@ -60,7 +60,7 @@
     "remark-cli": "latest",
     "remark-preset-github": "latest",
     "shelljs": "^0.8.2",
-    "uuid": "^3.3.2",
+    "uuid": "^14.0.0",
     "xo": "latest"
   },
   "engines": {
